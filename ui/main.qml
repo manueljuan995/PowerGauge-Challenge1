@@ -5,7 +5,7 @@ Window {
     width: 800
     height: 600
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("Dynamic QObject and QML Component Creation")
     color: "#343434"
 
     property var mDataList: Backend ? Backend.dataList : []

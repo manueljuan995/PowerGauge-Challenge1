@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/DataRect.qml</file>
+        <file>dataList1.json</file>
+        <file>dataSource1.json</file>
+        <file>dataList3.json</file>
+        <file>dataSource3.json</file>
+        <file>dataList5.json</file>
+        <file>dataSource5.json</file>
+    </qresource>
+</RCC>
